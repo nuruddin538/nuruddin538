@@ -2,6 +2,8 @@
 
 ### 🚀 Full Stack Web Developer | AI-Driven Engineer | Lifelong Learner
 
+![GitHub Profile Banner](https://i.ibb.co.com/kfLWy9y/github-banner.png)
+
 I'm a passionate **Full Stack Web Development** focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital solutions using modern web technologies and AI-assisted development workflows.
 
 
