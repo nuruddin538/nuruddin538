@@ -35,6 +35,8 @@ I'm a passionate **Full Stack Web Development** focused on building modern, resp
 ### 🔧 Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 
 - **Git & GitHub** — Version control, collaboration, and project management
