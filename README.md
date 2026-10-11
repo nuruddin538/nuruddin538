@@ -1,59 +1,83 @@
-### Hi there 👋
+# Hi there, I'm Nur Uddin 👋
 
-I am **MD. NUR UDDIN**, a professional AI-Driven Full stack Web Engineering Mindset and Web Developer (Frontend + Backend).
+### 🚀 Full Stack Web Developer | AI-Driven Engineer | Lifelong Learner
 
-- 🔭 I’m currently working on **[bazar-dor](https://github.com/nuruddin538/bazar-dor)** (A modern web app for daily market prices).
-- 🌱 I’m currently learning **Advanced AI Integration & Full Stack Architecture**.
+I'm a passionate **Full Stack Web Development** focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital solutions using modern web technologies and AI-assisted development workflows.
+
+
+- 🔭 I’m currently working on **Full-Stack web applications** 
+- 🌱 I’m continuously learning **Next.js, Typescript, authentication, and backend development, Advanced AI Integration & Full Stack Architecture**.
 - 👯 I’m looking to collaborate on **Open Source Web Projects**.
+- 💡 I'm interested in **AI-assisted coding, AI-driven problem-solving, and software engineering**
 - 🤔 I’m looking for help with **Scaling Web Applications**.
-- 💬 Ask me about **TypeScript, Web Development, or AI-driven workflows**.
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js Web Development, or AI-driven workflows**.
+- 🎯 My goal is to build scalable, maintainable, and impactful software
 - 📫 How to reach me: **nuruddinnur538@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love turning complex problems into simple, beautiful code.**
+- ⚡ Fun fact: **I believe great engineers combine technical skills, curiosity, and an AI-first mindset.**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Styling:**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js" />
+</p>
 
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logo=auth0&logoColor=white) 
+### ⚙️ Backend Development & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
+</p>
 
-**Tools & Methodologies:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AI-Assisted Coding](https://img.shields.io/badge/AI--Assisted_Coding-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![AI Mindset](https://img.shields.io/badge/AI_Mindset_%26_Engineering-00599C?style=for-the-badge&logo=probot&logoColor=white)
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" />
+</p>
 
----
+- **Git & GitHub** — Version control, collaboration, and project management
+- **AI-Assisted Coding** — Using AI tools to improve productivity, debugging, and development workflows
+- **AI Mindset & Engineering** — Applying AI thoughtfully to problem-solving, learning, and software development
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nuruddin538&show_icons=true&theme=radical" alt="nuruddin538 stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuruddin538&layout=compact&theme=radical" alt="nuruddin538 langs" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuruddin538&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur Uddin's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuruddin538&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nuruddin538&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-### 📫 Connect with me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuruddin538/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NurUddinNur11)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nuruddin538)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuruddinnur538@gmail.com)
+<p>
+  <a href="https://github.com/nuruddin538">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/nuruddin538">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:nuruddinnur538@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
----
+<p align="center">
+  💻 <b>Building. Learning. Improving.</b>
+  <br />
+  ⭐ Thanks for visiting my profile!
+</p>
 
 *📍 Based in Chittagong, Bangladesh*
