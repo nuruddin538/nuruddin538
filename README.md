@@ -73,7 +73,7 @@ I'm a passionate **Full Stack Web Development** focused on building modern, resp
   <a href="https://www.facebook.com/nuruddin538">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-<a href="mailto:nuruddinnur538@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nuruddinnur538@gmail.com" target="_blank">
   <img
     src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
